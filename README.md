@@ -15,7 +15,7 @@
               
           
 </p>
-<h2> 🔥 &nbsp;My State :</h2>
+<h2> 🔥 &nbsp;My Stats :</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kawtog&layout=compact"/>
 
 <!---
